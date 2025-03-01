@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+*{
+	margin:0;
+	padding:0;
+}
+div{
+	height:200px;
+	width:200px;
+	background-color:lightblue;
+	border:solid black 2px;
+	color:purple;
+	font-weight:bold;
+}
+p{
+	position:relative;
+	text-align:center;
+	margin-top:50%
+	
+}
